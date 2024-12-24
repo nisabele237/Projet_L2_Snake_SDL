@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/isabelle/Bureau/L2/Algo et structure/Nishimwe_23U2765_Snake/Nishimwe_23U2765_Snake_GUI",
+      "program": "/home/isabelle/Bureau/L2/Algo et structure/Nishimwe_23U2765_Snake/Nishimwe_23U2765_Snake_GUI/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
